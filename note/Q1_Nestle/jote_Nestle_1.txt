@@ -1,0 +1,97 @@
+Nestlé has outlined its sustainability initiatives through various reports and public statements, focusing on four key areas: the Fair Circularity Initiative, Stakeholder Engagement and Collaboration, Climate Roadmap and Net Zero Goals, and Responsible Sourcing and Human Rights Framework. Below is a critical analysis of these activities based on recent reports.
+Fair Circularity Initiative
+Nestlé aims to enhance its packaging sustainability through the Fair Circularity Initiative, which emphasizes reducing plastic waste and improving recycling rates. The company has committed to ensuring that 100% of its packaging is recyclable or reusable by 2025, alongside a goal to cut virgin plastic use by one-third during the same timeframe12. Despite these commitments, challenges remain, particularly in implementing effective recycling solutions across its product range. The necessity for innovative packaging designs and increased recycling capabilities is highlighted as a critical area for improvement1.
+Stakeholder Engagement and Collaboration
+Nestlé's approach to stakeholder engagement is integral to its sustainability strategy. The company conducts regular consultations with its Creating Shared Value (CSV) Council, which focuses on material topics such as climate change, water management, and human rights. In 2023, Nestlé reported significant interactions with stakeholders at various levels, fostering collaboration and knowledge sharing3. This engagement is crucial for addressing risks related to environmental, social, and governance (ESG) issues. However, the effectiveness of these engagements in driving tangible change remains a point of scrutiny.
+Climate Roadmap and Net Zero Goals
+Nestlé has set ambitious climate targets as part of its Climate Roadmap, aiming for a 20% reduction in absolute greenhouse gas emissions by 2025 compared to a 2018 baseline, with a long-term goal of achieving net zero by 205045. As of the end of 2023, the company reported a 12.75% reduction in emissions against this baseline. Nestlé has identified over 80% of the necessary supply chain initiatives to meet these objectives34. Nonetheless, questions linger regarding the transparency and accountability of these claims, particularly concerning Scope 3 emissions—those generated indirectly through its supply chain.
+Responsible Sourcing and Human Rights Framework
+Nestlé's commitment to responsible sourcing is encapsulated in its Human Rights Framework, which emphasizes traceability and compliance with sustainability standards across its supply chains. The company aims for all key ingredients to be sourced sustainably by 203012. As of now, it reports significant progress in achieving deforestation-free supply chains for several commodities; however, recent data indicates that while 93.4% of primary supply chains were assessed as deforestation-free in 2023, this marks a decline from previous years due to expanded criteria5. This raises concerns about the robustness of Nestlé's monitoring systems and the actual impact on biodiversity.
+
+
+Allegations and Evidence of Green/Blue Washing and Negative Activity
+
+Nestlé has been accused of green/blue washing and negative activities, including:
+
+Aggressive marketing of baby foods in breach of international marketing standards, leading to unnecessary death and suffering of infants (Baby Milk Action)
+Extracting water from watersheds that have seen droughts in recent years, leading to conflicts with local communities (The Council of Canadians and Lakota People's Law Project)
+Using HFC refrigerants, despite claiming to phase them out (Nestlé's environmental report)
+Being one of the top 3 plastic polluters in the world, alongside PepsiCo and Coca-Cola (Break Free From Plastic)
+Involvement in alleged workers' rights abuses, including anti-union campaigning (American Federation of Labor and Congress of Industrial Organizations)
+Poor approach to cocoa sourcing, including sourcing uncertified cocoa (Ethical Consumer)
+Role Within Supply Chain Sustainability Practices
+
+Nestlé's supply chain policy has reasonable clauses on key issues such as forced labor, child labor, and freedom of association. However, it has a poor auditing and reporting policy, which is concerning given its operations in 14 oppressive regimes.
+
+Identified Interventions of Improvement Following Previous Investigation
+
+Nestlé has made some attempts to address animal welfare issues, including aiming to use only cage-free eggs for all its food products globally by 2025. However, its policy does not explicitly exclude the use of factory farming practices.
+
+Application of UNSDG Assessment Tools
+
+Nestlé's environmental report mentions its commitment to reducing GHG emissions (scope 1 and 2) by 35% in manufacturing operations from a baseline of 2010. However, it does not provide clear targets for phasing out HFC refrigerants.
+
+
+Allegations and Evidence of Green/Blue Washing
+Greenpeace has accused Nestle of using single-use plastics, which contradicts the company's sustainability claims.
+The organization has likely gathered evidence through research, investigations, and data analysis, such as:
+Images or videos of Nestle products packaging with single-use plastics
+Interviews with employees, suppliers, or stakeholders
+Analysis of Nestle's supply chain and sourcing practices
+Role Within Supply Chain Sustainability Practices
+Greenpeace's involvement in Nestle's supply chain sustainability practices may be focused on:
+Exposing unsustainable practices and promoting transparency
+Advocating for the adoption of more environmentally friendly packaging materials
+Encouraging Nestle to implement sustainable supply chain management practices
+Identified Interventions of Improvement Following Previous Investigation
+Greenpeace may have previously investigated Nestle's sustainability practices and identified areas for improvement, such as:
+Implementing recycling programs for single-use plastics
+Developing more sustainable packaging materials
+Improving supply chain transparency and accountability
+Application of UNSDG Assessment Tools
+Greenpeace may have used the United Nations Sustainable Development Goals (UNSDG) assessment tools to evaluate Nestle's sustainability performance, focusing on:
+Goal 12: Responsible Consumption and Production
+Goal 13: Climate Action
+Goal 14: Life Below Water
+The UNSDG assessment tools provide a framework for evaluating a company's sustainability performance and identifying areas for improvement.
+1. Fair Circularity Initiative
+Nestlé’s Fair Circularity Initiative aims to transition its packaging to be 100% recyclable or reusable by 2025 and reduce virgin plastic use by one-third. While this initiative reflects a strong commitment to circularity, criticisms include:
+
+Implementation Challenges: Despite its ambition, only 49% of Nestlé’s packaging was recyclable or reusable as of its latest report, falling significantly short of its 2025 target.
+Plastic Waste Disposal: Nestlé has been linked to collaborations with cement companies to burn plastic waste in kilns. Critics argue that this practice generates toxic air pollutants and undermines true circularity principles by treating waste as fuel instead of a resource for reuse or recycling.
+Lack of Transparency: Limited disclosures on the health and environmental impacts of plastic-burning practices have fueled public skepticism about its sincerity in pursuing sustainable solutions.
+Analysis: While the initiative is well-conceived, execution has been slow, and reliance on controversial practices like incineration raises doubts about Nestlé’s commitment to genuine circularity.
+
+2. Stakeholder Engagement and Collaboration
+Nestlé emphasizes stakeholder collaboration, particularly with farmers, NGOs, and governments. However:
+
+Selective Engagement: Critics note that Nestlé often focuses on partnerships that enhance its corporate image rather than tackling systemic issues. For example, while engaging with regenerative agriculture initiatives, the scope often excludes challenging regions or materials like coffee and cocoa, which are pivotal to its supply chain.
+Top-Down Approach: Many collaborations have been criticized for being top-down, with limited input from grassroots stakeholders or local communities, leading to initiatives that may lack on-the-ground relevance and effectiveness.
+Missed Opportunities in Policy Advocacy: Nestlé has advocated for carbon pricing and other environmental policies but inconsistently applies pressure at global forums, limiting its influence on systemic change.
+Analysis: Stakeholder engagement efforts could be more inclusive and targeted at empowering grassroots actors. Nestlé’s selective advocacy undermines its potential to lead systemic sustainability reforms.
+
+3. Climate Roadmap and Net Zero Goals
+Nestlé has committed to halving its emissions by 2030 and achieving net zero by 2050, covering scopes 1, 2, and 3. However:
+
+Scope 3 Challenges: The bulk of Nestlé's emissions lie in Scope 3 (supply chain-related), accounting for over 90% of its footprint. Progress here has been criticized as insufficient, especially in high-impact commodities like cocoa and coffee.
+Financial Gaps: Analysts argue that Nestlé’s planned investment of 1.3 billion Swiss francs in supply chain decarbonization by 2025 is inadequate, suggesting that nearly three times this amount is needed by 2030 to meet its goals.
+Deforestation-Free Claims: While claiming deforestation-free status for five key raw materials, cocoa and coffee remain glaring exceptions, undermining the credibility of its broader Climate Roadmap.
+Analysis: Nestlé’s climate goals are ambitious, but slow progress in its supply chain and underinvestment call into question its ability to meet deadlines, risking reputational damage.
+
+4. Responsible Sourcing
+Nestlé has committed to responsibly sourcing raw materials, including meat, palm oil, soy, and cocoa. However:
+
+Cocoa and Coffee Challenges: Despite years of investment, cocoa and coffee supply chains are yet to be deforestation-free. This is particularly concerning given their significant contribution to Nestlé’s revenue and brand identity.
+Worker Exploitation Allegations: Nestlé has faced persistent allegations of child labor and poor working conditions in its cocoa supply chain. While it has implemented programs to address these issues, critics argue these efforts are insufficient and lack measurable impact.
+Traceability Issues: Although Nestlé promotes responsible sourcing, limited traceability of its agricultural inputs has raised questions about its claims of sustainable practices.
+Analysis: Nestlé’s efforts in responsible sourcing show intent but lack comprehensive implementation. Challenges in high-profile commodities like cocoa tarnish its broader sustainability narrative.
+
+5. Human Rights Framework
+Nestlé’s Human Rights Framework focuses on eliminating child labor, improving working conditions, and respecting community rights. Yet:
+
+Ineffective Monitoring: Critics argue that Nestlé’s monitoring mechanisms in regions like West Africa are inadequate for detecting and addressing systemic human rights violations, particularly child labor.
+Community Displacement: In some instances, Nestlé has been accused of contributing to community displacement for agricultural expansion, raising concerns about land rights and fair compensation.
+Transparency Gaps: While Nestlé reports on its human rights initiatives, it often fails to provide granular data on their effectiveness, leaving stakeholders skeptical about progress.
+Analysis: Nestlé’s Human Rights Framework represents a step in the right direction but falls short in enforcement and transparency, perpetuating concerns about its commitment to ethical practices.
+
+
